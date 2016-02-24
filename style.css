@@ -113,6 +113,7 @@ footer {
     -webkit-margin-after: 0;
     -webkit-padding-start: 0;
     float:right;
+    padding-right:27px;
 }  
 
 .footer ul li {
